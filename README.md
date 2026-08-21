@@ -1,2 +1,2 @@
-# SQL-Practice-
+# SQL-Practice- 
 SQL Practice for Data Analyzation
