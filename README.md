@@ -5,5 +5,4 @@ SQL Practice for Data Analyzation
 
 
 
-
   
